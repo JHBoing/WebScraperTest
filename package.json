@@ -1,0 +1,25 @@
+{
+  "name": "web-scraping-tutorial",
+  "version": "1.0.0",
+  "description": "A web scraping test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malvinus/WebScraperTutorial.git"
+  },
+  "author": "Joao Boing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malvinus/WebScraperTutorial/issues"
+  },
+  "homepage": "https://github.com/malvinus/WebScraperTutorial#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "puppeteer": "^1.12.2",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
